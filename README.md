@@ -22,4 +22,6 @@ The dataset contains 14 columns and 1001 rows. The columns contained in the data
 - Added age brackets column using IF statemets on the age column, adolescent being less than 31 ,middle age being greater than 31 and old being greater than 54 years.
 
 ## Data Analysis.
-Created pivot tables of average income by gender,
+Created pivot tables of average income by gender and whether they purchased a bike,total commute distance and whether they purchased a bike or not ,age bracket and whether they purchased a bike or not,
+
+
